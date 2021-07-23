@@ -1,0 +1,628 @@
+Id,District
+101,agar malwa/Q15732396
+102,agra/Q606343
+103,ahmedabad/Q401686
+104,ahmednagar/Q401744
+105,aizawl/Q1947322
+106,ajmer/Q413037
+107,akola/Q520510
+108,alappuzha/Q928959
+109,aligarh/Q766918
+110,alipurduar/Q4726845
+111,alirajpur/Q2667586
+112,almora/Q1805066
+113,alwar/Q449690
+114,ambala/Q2086226
+115,ambedkar nagar/Q456764
+116,amethi/Q1071494
+117,amravati/Q1771774
+118,amreli/Q257946
+119,amritsar/Q202822
+120,amroha/Q1891677
+121,anand/Q485683
+122,anantapur/Q15212
+123,anantnag/Q2982349
+124,angul/Q1772807
+125,anjaw/Q15413
+126,anuppur/Q2299093
+127,araria/Q42901
+128,aravalli/Q12175285
+129,ariyalur/Q15112
+130,arwal/Q42917
+131,ashoknagar/Q2246416
+132,assam/Q12345
+133,auraiya/Q1812533
+134,aurangabadbr/Q43086
+135,aurangabadmh/Q592942
+136,ayodhya/Q1814132
+137,azamgarh/Q793553
+138,bagalkote/Q1910231
+139,bageshwar/Q1815313
+140,baghpat/Q1797363
+141,bahraich/Q1812548
+142,balaghat/Q641904
+143,balangir/Q804642
+144,balasore/Q2022279
+145,ballari/Q1791926
+146,ballia/Q584644
+147,balod/Q16056266
+148,baloda bazar/Q15663455
+149,balrampurct/Q16056268
+150,balrampurup/Q1948380
+151,bametara/Q16254159
+152,banaskantha/Q806125
+153,banda/Q2131759
+154,bandipora/Q2983553
+155,banka/Q43097
+156,bankura/Q2088458
+157,banswara/Q806969
+158,barabanki/Q633114
+159,baramulla/Q1912057
+160,baran/Q2329717
+161,bareilly/Q1797378
+162,bargarh/Q808140
+163,barmer/Q42016
+164,barnala/Q2353293
+165,barwani/Q2126754
+166,bastar/Q100152
+167,basti/Q715267
+168,bathinda/Q172488
+169,beed/Q814037
+170,begusarai/Q49157
+171,belagavi/Q815464
+172,bengaluru rural/Q806464
+173,bengaluru urban/Q806463
+174,betul/Q1815279
+175,bhadohi/Q127533
+176,bhadrak/Q685638
+177,bhagalpur/Q49155
+178,bhandara/Q1813857
+179,bharatpur/Q854861
+180,bharuch/Q854900
+181,bhavnagar/Q854963
+182,bhilwara/Q41991
+183,bhind/Q2341700
+184,bhiwani/Q1852857
+185,bhojpur/Q49153
+186,bhopal/Q1797245
+187,bidar/Q1790568
+188,bijapur/Q100164
+189,bijnor/Q1937865
+190,bikaner/Q778996
+191,bilaspurct/Q100157
+192,bilaspurhp/Q1478939
+193,birbhum/Q2088440
+194,bokaro/Q2295925
+195,botad/Q14505072
+196,boudh/Q2363639
+197,budaun/Q1815262
+198,budgam/Q2594218
+199,bulandshahr/Q1752328
+200,buldhana/Q47929
+201,bundi/Q670405
+202,burhanpur/Q2125592
+203,buxar/Q49161
+204,chamarajanagara/Q862912
+205,chamba/Q1060614
+206,chamoli/Q1797372
+207,champawat/Q288278
+208,champhai/Q1965256
+209,chandauli/Q2733369
+210,chandigarh/Q5071071
+211,chandrapur/Q1797274
+212,changlang/Q15427
+213,charkhi dadri/Q28172110
+214,chatra/Q1979499
+215,chennai/Q15116
+216,chhatarpur/Q2449785
+217,chhindwara/Q1986096
+218,chhota udaipur/Q5979243
+219,chikkaballapura/Q1072629
+220,chikkamagaluru/Q743077
+221,chitradurga/Q165264
+222,chitrakoot/Q2089141
+223,chittoor/Q15213
+224,chittorgarh/Q1075011
+225,churu/Q1090006
+226,coimbatore/Q15136
+227,cooch behar/Q2728658
+228,cuddalore/Q15150
+229,cuttack/Q2022256
+230,dadra and nagar haveli/Q46107
+231,dahod/Q186518
+232,dakshin bastar dantewada/Q100211
+233,dakshin dinajpur/Q533839
+234,dakshina kannada/Q950571
+235,daman/Q1158197
+236,damoh/Q2479331
+237,dang/Q1135616
+238,darbhanga/Q49160
+239,darjeeling/Q1134759
+240,datia/Q2206266
+241,dausa/Q1173042
+242,davanagere/Q1863214
+243,dehradun/Q1815740
+244,delhi/Q9872803
+245,deogarh/Q2269639
+246,deoghar/Q2030017
+247,deoria/Q731746
+248,devbhumi dwarka/Q14594717
+249,dewas/Q2025998
+250,dhalai/Q2086546
+251,dhamtari/Q100190
+252,dhanbad/Q2240791
+253,dhar/Q2299069
+254,dharmapuri/Q15152
+255,dharwad/Q1790904
+256,dhenkanal/Q1948389
+257,dholpur/Q1207709
+258,dhule/Q1797383
+259,dimapur/Q634262
+260,dindigul/Q15154
+261,dindori/Q2398551
+262,diu/Q631849
+263,doda/Q2298979
+264,dumka/Q2577657
+265,dungarpur/Q1265687
+266,durg/Q100182
+267,east champaran/Q49159
+268,east garo hills/Q2085455
+269,east godavari/Q15338
+270,east jaintia hills/Q15923776
+271,east kameng/Q15424
+272,east khasi hills/Q1945304
+273,east siang/Q15419
+274,east singhbhum/Q2452921
+275,ernakulam/Q1356097
+276,erode/Q15155
+277,etah/Q1773429
+278,etawah/Q1815288
+279,faridabad/Q2086173
+280,faridkot/Q172494
+281,farrukhabad/Q1897251
+282,fatehabad/Q2301753
+283,fatehgarh sahib/Q172485
+284,fatehpur/Q1946829
+285,fazilka/Q188702
+286,ferozepur/Q172385
+287,firozabad/Q1946950
+288,gadag/Q2353931
+289,gadchiroli/Q1804847
+290,gajapati/Q1947292
+291,ganderbal/Q2556028
+292,gandhinagar/Q1772860
+293,ganganagar/Q1419696
+294,ganjam/Q776213
+295,garhwa/Q2302076
+296,gariaband/Q16961365
+297,gautam buddha nagar/Q1785950
+298,gaya/Q49173
+299,ghaziabad/Q1773444
+300,ghazipur/Q1287993
+301,gir somnath/Q15244465
+302,giridih/Q2302065
+303,goa/Q108234
+304,godda/Q638980
+305,gomati/Q16086497
+306,gonda/Q1937857
+307,gondia/Q1917227
+308,gopalganj/Q49171
+309,gorakhpur/Q1144349
+310,gumla/Q2295865
+311,guna/Q930027
+312,guntur/Q15341
+313,gurdaspur/Q146708
+314,gurugram/Q1815766
+315,gwalior/Q2085310
+316,hamirpurhp/Q2086180
+317,hamirpurup/Q2019757
+318,hanumangarh/Q1356112
+319,hapur/Q5653340
+320,harda/Q2173003
+321,hardoi/Q1772822
+322,haridwar/Q2270438
+323,hassan/Q956732
+324,hathras/Q1814892
+325,haveri/Q765481
+326,hazaribagh/Q1945416
+327,hingoli/Q2087615
+328,hisar/Q1815773
+329,hooghly/Q548518
+330,hoshangabad/Q620801
+331,hoshiarpur/Q304800
+332,howrah/Q1478937
+333,idukki/Q301821
+334,indore/Q742938
+335,jabalpur/Q632093
+336,jagatsinghpur/Q971581
+337,jaipur/Q1134781
+338,jaisalmer/Q1419708
+339,jajpur/Q2087771
+340,jalandhar/Q1817425
+341,jalaun/Q2089115
+342,jalgaon/Q1797291
+343,jalna/Q1804863
+344,jalore/Q1460832
+345,jalpaiguri/Q1351487
+346,jammu/Q1947371
+347,jamnagar/Q2982118
+348,jamtara/Q2980986
+349,jamui/Q49168
+350,janjgir champa/Q2575633
+351,jashpur/Q2577551
+352,jaunpur/Q1356060
+353,jehanabad/Q49176
+354,jhabua/Q2085336
+355,jhajjar/Q1948260
+356,jhalawar/Q1471417
+357,jhansi/Q1937885
+358,jhargram/Q29168456
+359,jharsuguda/Q569181
+360,jhunjhunu/Q1471427
+361,jind/Q268605
+362,jodhpur/Q1434965
+363,junagadh/Q1797344
+364,kabeerdham/Q2450255
+365,kaimur/Q77367
+366,kaithal/Q614037
+367,kalaburagi/Q2641873
+368,kalahandi/Q1876588
+369,kalimpong/Q28769140
+370,kallakurichi/Q60493360
+371,kamle/Q48731073
+372,kancheepuram/Q15157
+373,kandhamal/Q2085500
+374,kangra/Q727232
+375,kannauj/Q627979
+376,kannur/Q2980652
+377,kanpur dehat/Q610612
+378,kanpur nagar/Q2089152
+379,kanyakumari/Q15158
+380,kapurthala/Q172363
+381,karaikal/Q639264
+382,karauli/Q1419668
+383,kargil/Q1650798
+384,karnal/Q607915
+385,karur/Q15182
+386,kasaragod/Q1419703
+387,kasganj/Q890800
+388,kathua/Q2375700
+389,katihar/Q77568
+390,katni/Q746441
+391,kaushambi/Q1946937
+392,kendrapara/Q2299172
+393,kendujhar/Q2085428
+394,khagaria/Q49175
+395,khandwa/Q2085436
+396,khargone/Q2273900
+397,kheda/Q1755463
+398,khordha/Q662818
+399,khowai/Q16086680
+400,khunti/Q367344
+401,kinnaur/Q1862950
+402,kiphire/Q2597908
+403,kishanganj/Q77375
+404,kishtwar/Q2321899
+405,kodagu/Q1553185
+406,koderma/Q2085480
+407,kohima/Q953530
+408,kolar/Q2509866
+409,kolasib/Q1947343
+410,kolhapur/Q1797312
+411,kolkata/Q1348
+412,kollam/Q1356124
+413,kondagaon/Q12420995
+414,koppal/Q956387
+415,koraput/Q1947300
+416,korba/Q2299121
+417,koriya/Q2295896
+418,kota/Q999432
+419,kottayam/Q1353354
+420,kozhikode/Q1142979
+421,kra daadi/Q21018627
+422,krishna/Q15382
+423,krishnagiri/Q15183
+424,kulgam/Q2321867
+425,kullu/Q2980880
+426,kupwara/Q2297306
+427,kurnool/Q15381
+428,kurukshetra/Q980118
+429,kurung kumey/Q2449506
+430,kushinagar/Q825673
+431,kutch/Q1063417
+432,lahaul and spiti/Q837595
+433,lakhimpur kheri/Q1755447
+434,lakhisarai/Q77505
+435,lalitpur/Q1947336
+436,latehar/Q2244762
+437,latur/Q1948713
+438,lawngtlai/Q2086209
+439,leh/Q1921210
+440,lepa rada/Q63563632
+441,lohardaga/Q1948301
+442,lohit/Q15438
+443,longding/Q5627568
+444,longleng/Q1426783
+445,lower dibang valley/Q2373368
+446,lower siang/Q13602925
+447,lower subansiri/Q15436
+448,lucknow/Q1773416
+449,ludhiana/Q172482
+450,lunglei/Q1947352
+451,madhepura/Q77746
+452,madhubani/Q77474
+453,madurai/Q15184
+454,maharajganj/Q1356139
+455,mahasamund/Q2450240
+456,mahe/Q639279
+457,mahendragarh/Q684019
+458,mahisagar/Q5706885
+459,mahoba/Q1815322
+460,mainpuri/Q1816657
+461,malappuram/Q1030918
+462,malda/Q2049820
+463,malkangiri/Q5122619
+464,mamit/Q751531
+465,mandi/Q1892161
+466,mandla/Q2341670
+467,mandsaur/Q1870014
+468,mandya/Q2768290
+469,manipur/Q876532
+470,mansa/Q172387
+471,mathura/Q1773422
+472,mau/Q1518847
+473,mayurbhanj/Q1914546
+474,meerut/Q1764627
+475,mehsana/Q2019694
+476,mirzapur/Q1143894
+477,moga/Q1946896
+478,mokokchung/Q2175311
+479,mon/Q2339648
+480,moradabad/Q1345006
+481,morbi/Q5979727
+482,morena/Q2341467
+483,mumbai/Q2341660
+484,mungeli/Q13476249
+485,munger/Q77452
+486,murshidabad/Q1546240
+487,muzaffarnagar/Q2365710
+488,muzaffarpur/Q77731
+489,mysuru/Q591781
+490,nabarangapur/Q2396798
+491,nadia/Q1143880
+492,nagapattinam/Q15185
+493,nagaur/Q1507174
+494,nagpur/Q1797367
+495,nainital/Q1797306
+496,nalanda/Q77633
+497,namakkal/Q15187
+498,namsai/Q21559824
+499,nanded/Q692389
+500,nandurbar/Q1623525
+501,narayanpur/Q2322000
+502,narmada/Q1797230
+503,narsinghpur/Q2341616
+504,nashik/Q1797269
+505,navsari/Q1797349
+506,nawada/Q100067
+507,nayagarh/Q2367388
+508,neemuch/Q2341713
+509,nilgiris/Q15188
+510,niwari/Q63563797
+511,north 24 parganas/Q338425
+512,north garo hills/Q7055466
+513,north tripura/Q1920978
+514,nuapada/Q1810550
+515,nuh/Q2216696
+516,osmanabad/Q1647186
+517,pakke kessang/Q32145
+518,pakur/Q2295930
+519,palakkad/Q1535742
+520,palamu/Q1797254
+521,palghar/Q18003119
+522,pali/Q46925
+523,palwal/Q2724926
+524,panchkula/Q1898143
+525,panchmahal/Q1781463
+526,panipat/Q2086163
+527,panna/Q2341630
+528,papum pare/Q15432
+529,parbhani/Q1797389
+530,paschim bardhaman/Q29215602
+531,paschim medinipur/Q1855537
+532,patan/Q1815269
+533,pathanamthitta/Q634935
+534,pathankot/Q172269
+535,patiala/Q172391
+536,patna/Q100077
+537,pauri garhwal/Q2085474
+538,perambalur/Q15186
+539,peren/Q516294
+540,phek/Q590882
+541,pilibhit/Q2980705
+542,pithoragarh/Q1945425
+543,porbandar/Q1772815
+544,prakasam/Q15390
+545,pratapgarhrj/Q1585433
+546,pratapgarhup/Q1473962
+547,prayagraj/Q1773426
+548,puducherry/Q984035
+549,pudukkottai/Q15190
+550,pulwama/Q2085364
+551,punch/Q2983134
+552,pune/Q1797336
+553,purba bardhaman/Q808023
+554,purba medinipur/Q1431920
+555,puri/Q1817158
+556,purnia/Q100082
+557,purulia/Q307474
+558,rae bareli/Q1321157
+559,raichur/Q1430830
+560,raigad/Q2019683
+561,raigarh/Q2286310
+562,raipur/Q2295914
+563,raisen/Q1815223
+564,rajgarh/Q1833306
+565,rajkot/Q1815245
+566,rajnandgaon/Q2341800
+567,rajouri/Q544279
+568,rajsamand/Q596693
+569,ramanagara/Q427679
+570,ramanathapuram/Q15191
+571,ramban/Q2321939
+572,ramgarh/Q2663612
+573,rampur/Q1815331
+574,ranchi/Q1947380
+575,ratlam/Q2299164
+576,ratnagiri/Q1771768
+577,rayagada/Q2577997
+578,reasi/Q2321956
+579,rewa/Q526862
+580,rewari/Q2301759
+581,ribhoi/Q1884672
+582,rohtak/Q967388
+583,rohtas/Q100085
+584,rudraprayag/Q1805059
+585,rupnagar/Q196508
+586,s.a.s. nagar/Q2037672
+587,s.p.s. nellore/Q15383
+588,sabarkantha/Q1772856
+589,sagar/Q2085421
+590,saharanpur/Q1797326
+591,saharsa/Q100120
+592,sahibganj/Q767878
+593,saiha/Q1821714
+594,salem/Q15192
+595,samastipur/Q100117
+596,samba/Q1117086
+597,sambalpur/Q1267306
+598,sambhal/Q3000436
+599,sangli/Q1425060
+600,sangrur/Q1945515
+601,sant kabir nagar/Q1945445
+602,saraikela-kharsawan/Q2362658
+603,saran/Q100146
+604,satara/Q1135612
+605,satna/Q2577924
+606,sawai madhopur/Q1507166
+607,sehore/Q2299029
+608,seoni/Q2221184
+609,serchhip/Q2086190
+610,shahdol/Q2085464
+611,shahid bhagat singh nagar/Q202710
+612,shahjahanpur/Q1812557
+613,shajapur/Q2449803
+614,shamli/Q2999938
+615,sheikhpura/Q100093
+616,sheohar/Q100095
+617,sheopur/Q620105
+618,shi yomi/Q63563625
+619,shimla/Q1921404
+620,shivamogga/Q2981389
+621,shivpuri/Q2299042
+622,shopiyan/Q2073646
+623,shrawasti/Q1945458
+624,siang/Q18642331
+625,siddharthnagar/Q1815339
+626,sidhi/Q2449793
+627,sikar/Q12945777
+628,sikkim/Q1772836
+629,simdega/Q2597889
+630,sindhudurg/Q768332
+631,singrauli/Q2668638
+632,sipahijala/Q16086076
+633,sirmaur/Q654331
+634,sirohi/Q205719
+635,sirsa/Q526101
+636,sitamarhi/Q100144
+637,sitapur/Q1812539
+638,sivaganga/Q15195
+639,siwan/Q100131
+640,solan/Q2980937
+641,solapur/Q1797263
+642,sonbhadra/Q607798
+643,sonipat/Q2241746
+644,south 24 parganas/Q2308319
+645,south garo hills/Q2329228
+646,south tripura/Q1822159
+647,south west garo hills/Q15961576
+648,south west khasi hills/Q15923741
+649,sri muktsar sahib/Q1947359
+650,srikakulam/Q15395
+651,srinagar/Q1506029
+652,subarnapur/Q1473957
+653,sukma/Q16933590
+654,sultanpur/Q1356154
+655,sundargarh/Q2296047
+656,supaul/Q100139
+657,surajpur/Q16938031
+658,surat/Q1797317
+659,surendranagar/Q237535
+660,surguja/Q1805075
+661,tapi/Q670165
+662,tarn taran/Q2298993
+663,tawang/Q15449
+664,tehri garhwal/Q1357107
+665,telangana/Q987654
+666,thane/Q943099
+667,thanjavur/Q15194
+668,theni/Q15196
+669,thiruvallur/Q15204
+670,thiruvananthapuram/Q162612
+671,thiruvarur/Q15197
+672,thoothukkudi/Q15198
+673,thrissur/Q2429655
+674,tikamgarh/Q2449760
+675,tirap/Q15448
+676,tiruchirappalli/Q15201
+677,tirunelveli/Q15200
+678,tiruppur/Q15202
+679,tiruvannamalai/Q15207
+680,tonk/Q915880
+681,tuensang/Q2571393
+682,tumakuru/Q1301635
+683,udaipur/Q1321577
+684,udham singh nagar/Q1805082
+685,udhampur/Q1947311
+686,udupi/Q1483337
+687,ujjain/Q892641
+688,umaria/Q620297
+689,una/Q2301741
+690,unnao/Q1937875
+691,unokoti/Q16087996
+692,upper dibang valley/Q15446
+693,upper siang/Q15465
+694,upper subansiri/Q15464
+695,uttar bastar kanker/Q2310530
+696,uttar dinajpur/Q2019766
+697,uttara kannada/Q579205
+698,uttarkashi/Q1773437
+699,vadodara/Q578285
+700,vaishali/Q100130
+701,valsad/Q1946743
+702,varanasi/Q1321140
+703,vellore/Q15206
+704,vidisha/Q1815253
+705,vijayapura/Q1727570
+706,viluppuram/Q15205
+707,virudhunagar/Q15209
+708,visakhapatnam/Q15394
+709,vizianagaram/Q15392
+710,wardha/Q980608
+711,washim/Q1804858
+712,wayanad/Q1364427
+713,west champaran/Q100124
+714,west garo hills/Q2329181
+715,west godavari/Q15404
+716,west jaintia hills/Q1920789
+717,west kameng/Q15459
+718,west khasi hills/Q2064752
+719,west siang/Q15453
+720,west singhbhum/Q1950527
+721,west tripura/Q1947570
+722,wokha/Q681821
+723,y.s.r. kadapa/Q15342
+724,yadgir/Q1786949
+725,yamunanagar/Q1873644
+726,yavatmal/Q1804852
+727,zunheboto/Q2091461
